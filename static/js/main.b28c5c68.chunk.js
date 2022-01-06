@@ -3274,6 +3274,33 @@
                         quoteTokenSymbol: i.b.BNB,
                         quoteTokenAdresses: a.a.wbnb,
                     },
+                    {
+                        pid: 3,
+                        lpSymbol: "VOTE-FJB LP",
+                        lpAddresses: { 97: "", 56: "0x18643a37D920A1a009E7f103C788d6DB6Cd03301" },
+                        tokenSymbol: "VOTE",
+                        tokenAddresses: { 97: "", 56: "0x634D10911a59651E8344691c35d6a4545f7934A1" },
+                        quoteTokenSymbol: i.b.BNB,
+                        quoteTokenAdresses: a.a.wbnb,
+                    },
+                    {
+                        pid: 4,
+                        lpSymbol: "VOTE-BFJB LP",
+                        lpAddresses: { 97: "", 56: "0x7e6A06BB7a9b780e8605433df441f0081a1663ca" },
+                        tokenSymbol: "VOTE",
+                        tokenAddresses: { 97: "", 56: "0x634D10911a59651E8344691c35d6a4545f7934A1" },
+                        quoteTokenSymbol: i.b.BNB,
+                        quoteTokenAdresses: a.a.wbnb,
+                    },
+                    {
+                        pid: 5,
+                        lpSymbol: "VOTE-RONA LP",
+                        lpAddresses: { 97: "", 56: "0xa7527826A4Bc27Be4Ca7d399f4533d5155efE452" },
+                        tokenSymbol: "VOTE",
+                        tokenAddresses: { 97: "", 56: "0x634D10911a59651E8344691c35d6a4545f7934A1" },
+                        quoteTokenSymbol: i.b.BNB,
+                        quoteTokenAdresses: a.a.wbnb,
+                    },
                 ];
             t.a = r;
         },
