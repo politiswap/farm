@@ -3170,7 +3170,7 @@
                         poolCategory: a.a.CORE,
                         projectLink: "/",
                         harvest: !0,
-                        tokenPerBlock: "10",
+                        tokenPerBlock: "2",
                         sortOrder: 1,
                         isFinished: !1,
                         tokenDecimals: 18,
