@@ -3175,6 +3175,21 @@
                         isFinished: !1,
                         tokenDecimals: 18,
                     },
+                      {
+                        sousId: 1,
+                        tokenName: "FJB",
+                        tokenAddress: "0xa179248e50ce5afb507fd8c54e08a66fbac7b6ff",
+                        stakingTokenName: a.b.CAKE,
+                        stakingTokenAddress: "0x634D10911a59651E8344691c35d6a4545f7934A1",
+                        contractAddress: { 97: "", 56: "0x23A3837E85E8a3F1f29f4cA3bFeac241f53847B8" },
+                        poolCategory: a.a.COMMUNITY,
+                        projectLink: "/",
+                        harvest: !0,
+                        tokenPerBlock: "1",
+                        sortOrder: 2,
+                        isFinished: !1,
+                        tokenDecimals: 9,
+                    },
                 ];
             t.a = i;
         },
