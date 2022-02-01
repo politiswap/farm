@@ -3183,7 +3183,7 @@
                         stakingTokenAddress: "0x634D10911a59651E8344691c35d6a4545f7934A1",
                         contractAddress: { 97: "", 56: "0x23A3837E85E8a3F1f29f4cA3bFeac241f53847B8" },
                         poolCategory: a.a.COMMUNITY,
-                        projectLink: "/",
+                        projectLink: "https://fjbcoin.org",
                         harvest: !0,
                         tokenPerBlock: "1",
                         sortOrder: 2,
