@@ -4371,7 +4371,7 @@
                                             Object(C.jsx)(d.t, { as: "h1", size: "xxl", mb: "16px", children: t(738, "Ballot Box") }),
                                             Object(C.jsxs)("ul", {
                                                 children: [
-                                                    Object(C.jsx)("li", { children: t(580, "Stake VOTE and other coins to earn.") }),
+                                                    Object(C.jsx)("li", { children: t(580, "Stake VOTE and other tokens to earn.") }),
                                                     Object(C.jsx)("li", { children: t(486, "You can unstake at any time.") }),
                                                     Object(C.jsx)("li", { children: t(406, "Rewards are calculated per block.") }),
                                                 ],
