@@ -4275,7 +4275,7 @@
                                                   0 === n && A && c && Object(C.jsx)(it, { disabled: !Q.toNumber() || U, text: U ? x(999, "Compounding") : x(704, "Compound"), onClick: ie }),
                                               ],
                                           }),
-                                    Object(C.jsx)(re, { isFinished: j && 0 !== n, text: x(330, "".concat(a, " pool earnings")) }),
+                                    Object(C.jsx)(re, { isFinished: j && 0 !== n, text: x(330, "".concat(a, " earned")) }),
                                     Object(C.jsxs)(Ot, {
                                         children: [
                                             !A && Object(C.jsx)(ae.a, {}),
