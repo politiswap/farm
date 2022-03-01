@@ -3500,8 +3500,8 @@
                             { label: "Liquidity", href: "https://dex.politiswap.finance/#/pool" },
                         ],
                     },
-                    { label: "Farms", icon: "FarmIcon", href: "/farms" },
-                    { label: "Pools", icon: "PoolIcon", href: "/pools" },
+                    { label: "Farms (coming soon)", icon: "FarmIcon", href: "" },
+                    { label: "Pools (coming soon)", icon: "PoolIcon", href: "" },
                 ],
                 L = function (e) {
                     var t = Object(g.c)().account,
