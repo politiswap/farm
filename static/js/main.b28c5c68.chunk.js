@@ -3175,21 +3175,6 @@
                         isFinished: !1,
                         tokenDecimals: 18,
                     },
-                    {
-                        sousId: 800,
-                        tokenName: "FJB",
-                        tokenAddress: "0x634D10911a59651E8344691c35d6a4545f7934A1",
-                        stakingTokenName: "FJB",
-                        stakingTokenAddress: "0xa179248e50ce5afb507fd8c54e08a66fbac7b6ff",
-                        contractAddress: { 97: "", 56: "" },
-                        poolCategory: a.a.COMMUNITY,
-                        projectLink: "https://fjbcoin.org",
-                        harvest: !0,
-                        tokenPerBlock: "1",
-                        sortOrder: 2,
-                        isFinished: !1,
-                        tokenDecimals: 18,
-                    },
                 ];
             t.a = i;
         },
