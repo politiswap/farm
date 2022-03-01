@@ -388,8 +388,8 @@
                                 Object(V.jsxs)(g.s, {
                                     justifyContent: "space-between",
                                     children: [
-                                        Object(V.jsx)(g.t, { color: "contrast", size: "lg", children: "in Farms" }),
-                                        Object(V.jsx)(ie.b, { exact: !0, activeClassName: "active", to: "/farms", id: "farm-apy-cta", children: Object(V.jsx)(g.c, { mt: 30, color: "primary" }) }),
+                                        Object(V.jsx)(g.t, { color: "contrast", size: "lg", children: "in Farms (coming soon)" }),
+                                        Object(V.jsx)(ie.b, { exact: !0, activeClassName: "active", to: "", id: "farm-apy-cta", children: Object(V.jsx)(g.c, { mt: 30, color: "primary" }) }),
                                     ],
                                 }),
                             ],
